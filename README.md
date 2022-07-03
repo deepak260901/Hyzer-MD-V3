@@ -32,10 +32,9 @@
 ------------------
 
 # Run On Heroku
-
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Hyzer-MD-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Hyzer-MD-V2)
 
 
 # Heroku Buildpack
